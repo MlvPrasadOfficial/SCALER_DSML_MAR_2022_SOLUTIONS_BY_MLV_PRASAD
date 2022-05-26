@@ -1,3 +1,3 @@
 import numpy as np
 python --version
-ddd
+ddd vd vd vd
