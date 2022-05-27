@@ -1,5 +1,6 @@
 class Solution:
 	def bulbs(self, A):
+        
         count = 0
         
         n = len(A)
