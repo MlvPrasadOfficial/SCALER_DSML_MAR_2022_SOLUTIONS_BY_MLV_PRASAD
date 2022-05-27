@@ -10,4 +10,5 @@ class Solution:
             curr_max = max(A[i], curr_max + A[i])  ##1
             max_so_far = max(max_so_far,curr_max)  ##2
             
-        return max_so_far
+        return max_so_far 
+        #

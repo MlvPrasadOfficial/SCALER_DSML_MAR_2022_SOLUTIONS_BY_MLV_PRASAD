@@ -1,0 +1,1 @@
+# 'self' is not needed in def namePrint(self):
