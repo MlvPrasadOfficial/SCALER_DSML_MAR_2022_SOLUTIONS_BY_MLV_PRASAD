@@ -76,3 +76,4 @@ def countfreq(arr2d):
     # No need to write code to take input
     
     return np.array([func(row) for row in arr2d])
+    #
