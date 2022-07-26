@@ -1,1 +1,0 @@
-# The instance of object itself we usually refer to it as self.

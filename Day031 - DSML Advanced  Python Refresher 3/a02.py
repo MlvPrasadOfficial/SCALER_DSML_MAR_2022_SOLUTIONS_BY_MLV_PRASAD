@@ -1,1 +1,0 @@
-# [2022 - int(string[1:5]) for string in names], i > 18:

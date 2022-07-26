@@ -1,1 +1,0 @@
-# cleaned_columns = [i.replace(' ','').lower() for i in columns]

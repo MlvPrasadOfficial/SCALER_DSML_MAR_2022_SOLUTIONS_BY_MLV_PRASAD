@@ -1,0 +1,1 @@
+# np.concatenate((C.T, A.reshape(m,1)), axis = 1)

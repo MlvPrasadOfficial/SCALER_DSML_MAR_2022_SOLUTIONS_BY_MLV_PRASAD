@@ -1,1 +1,0 @@
-# lst1[index] != lst2[len(lst2) - 1 - index]

@@ -1,1 +1,0 @@
-# All the elements except those at the border are equated to zero.
